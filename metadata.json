@@ -1,0 +1,6 @@
+{
+  "name": "Top spin Snooker Club",
+  "description": "Premier 6-table AC snooker lounge located Near Masjid Auqaf, Shah Kamal Road, Lahore. Live table booking, rates, and 24/7 gaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
